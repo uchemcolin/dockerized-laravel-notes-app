@@ -2,7 +2,7 @@
 
 > A fully containerized Laravel 12 notes application with user authentication and CRUD operations.
 
-![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)
+![Laravel](https://img.shields.io/badge/Laravel-13.x-red.svg)
 ![PHP](https://img.shields.io/badge/PHP-8.4-blue.svg)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED.svg)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3.svg)
@@ -33,7 +33,7 @@ A clean, production-ready notes application built with **Laravel 12**, fully con
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| **Laravel** | 12.x | PHP Framework |
+| **Laravel** | 13.x | PHP Framework |
 | **PHP** | 8.4 | Backend Language |
 | **MySQL** | 8.0+ | External Database |
 | **Docker** | Latest | Containerization |
@@ -47,7 +47,7 @@ A clean, production-ready notes application built with **Laravel 12**, fully con
 
 A fully containerized Laravel 12 notes application with user authentication and CRUD operations.
 
-[![Laravel](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com)
+[![Laravel](https://img.shields.io/badge/Laravel-13.x-red.svg)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.4-blue.svg)](https://php.net)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED.svg)](https://docker.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3.svg)](https://getbootstrap.com)
@@ -78,7 +78,7 @@ A clean, production-ready notes application built with Laravel 12, fully contain
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| Laravel | 12.x | PHP Framework |
+| Laravel | 13.x | PHP Framework |
 | PHP | 8.4 | Backend Language |
 | MySQL | 8.0+ | External Database |
 | Docker | Latest | Containerization |
