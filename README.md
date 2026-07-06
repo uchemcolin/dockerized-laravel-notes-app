@@ -192,15 +192,6 @@ docker exec -it notes-app php artisan <command>  Run Artisan commands
 
 ---
 
-## 📸 Screenshots
-
-Login Page
-Dashboard
-Create Note
-View Note
-
----
-
 ## 🔧 Development
 
 ### Adding New Features
