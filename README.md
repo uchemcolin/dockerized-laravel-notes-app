@@ -1,6 +1,6 @@
 # 📝 Laravel Notes App
 
-> A fully containerized Laravel 12 notes application with user authentication and CRUD operations.
+> A fully containerized Laravel 13 notes application with user authentication and CRUD operations.
 
 ![Laravel](https://img.shields.io/badge/Laravel-13.x-red.svg)
 ![PHP](https://img.shields.io/badge/PHP-8.4-blue.svg)
@@ -12,7 +12,7 @@
 
 ## 🚀 Overview
 
-A clean, production-ready notes application built with **Laravel 12**, fully containerized with **Docker** for seamless development on any system, optimized for Apple Silicon M5 chips. 
+A clean, production-ready notes application built with **Laravel 13**, fully containerized with **Docker** for seamless development on any system, optimized for Apple Silicon M5 chips. 
 
 ### ✨ Features
 
@@ -45,7 +45,7 @@ A clean, production-ready notes application built with **Laravel 12**, fully con
 ## 📁 Project Structure
 # 📝 Laravel Notes App
 
-A fully containerized Laravel 12 notes application with user authentication and CRUD operations.
+A fully containerized Laravel 13 notes application with user authentication and CRUD operations.
 
 [![Laravel](https://img.shields.io/badge/Laravel-13.x-red.svg)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.4-blue.svg)](https://php.net)
@@ -57,7 +57,7 @@ A fully containerized Laravel 12 notes application with user authentication and 
 
 ## 🚀 Overview
 
-A clean, production-ready notes application built with Laravel 12, fully containerized with Docker for seamless development on any system, optimized for Apple Silicon M5 chips.
+A clean, production-ready notes application built with Laravel 13, fully containerized with Docker for seamless development on any system, optimized for Apple Silicon M5 chips.
 
 ### ✨ Features
 
