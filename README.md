@@ -89,7 +89,7 @@ A clean, production-ready notes application built with Laravel 13, fully contain
 
 ## 📁 Project Structure
 
-laravel-notes-app/
+dockerized-laravel-notes-app/
 ├── docker/
 │   └── php/
 │       ├── Dockerfile
@@ -156,8 +156,8 @@ laravel-notes-app/
 ### Installation
 
 1. Clone the repository
-   git clone https://github.com/yourusername/laravel-notes-app.git
-   cd laravel-notes-app
+   git clone https://github.com/uchemcolin/dockerized-laravel-notes-app
+   cd dockerized-laravel-notes-app
 
 2. Configure environment
    cp .env.example .env
